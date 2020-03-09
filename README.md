@@ -1,28 +1,28 @@
 # Modul 3
 ## Latihan 1
-![alt text](https://github.com/AndraQeysa/PHP_Fungsi_Kondisi_Latihan-Form/blob/master/Modul3/Latihan1.php)
+![alt text](https://github.com/AndraQeysa/PHP_Fungsi_Kondisi_Latihan-Form/blob/master/Hasil/Modul3/Latihan1.PNG)
 
 ## Latihan 2
-![alt text](https://github.com/AndraQeysa/PHP_Fungsi_Kondisi_Latihan-Form/blob/master/Modul3/Latihan2.php)
+![alt text](https://github.com/AndraQeysa/PHP_Fungsi_Kondisi_Latihan-Form/blob/master/Hasil/Modul3/Latihan2.PNG)
 
 ## Latihan 3
-![alt text](https://github.com/AndraQeysa/PHP_Fungsi_Kondisi_Latihan-Form/blob/master/Modul3/Latihan3.php)
+![alt text](https://github.com/AndraQeysa/PHP_Fungsi_Kondisi_Latihan-Form/blob/master/Hasil/Modul3/Latihan3.PNG)
 
 ## Latihan 4
-![alt text](https://github.com/AndraQeysa/PHP_Fungsi_Kondisi_Latihan-Form/blob/master/Modul3/Latihan4.php)
+![alt text](https://github.com/AndraQeysa/PHP_Fungsi_Kondisi_Latihan-Form/blob/master/Hasil/Modul3/Latihan4.PNG)
 
 ## Latihan 5
-![alt text](https://github.com/AndraQeysa/PHP_Fungsi_Kondisi_Latihan-Form/blob/master/Modul3/Latihan5.php)
+![alt text](https://github.com/AndraQeysa/PHP_Fungsi_Kondisi_Latihan-Form/blob/master/Hasil/Modul3/Latihan5.PNG)
 
 ## Latihan 6
-![alt text](https://github.com/AndraQeysa/PHP_Fungsi_Kondisi_Latihan-Form/blob/master/Modul3/Latihan6.php)
+![alt text](https://github.com/AndraQeysa/PHP_Fungsi_Kondisi_Latihan-Form/blob/master/Hasil/Modul3/Latihan6.PNG)
 
 # Modul 4
 ## Latihan 1
-![alt text](https://github.com/AndraQeysa/PHP_Fungsi_Kondisi_Latihan-Form/blob/master/Modul3/Latihan1.php)
+![alt text](https://github.com/AndraQeysa/PHP_Fungsi_Kondisi_Latihan-Form/blob/master/Hasil/Modul4/Latihan1.PNG)
 
-## Latihan 1
-![alt text](https://github.com/AndraQeysa/PHP_Fungsi_Kondisi_Latihan-Form/blob/master/Modul3/Latihan1.php)
+## Latihan 2
+![alt text](https://github.com/AndraQeysa/PHP_Fungsi_Kondisi_Latihan-Form/blob/master/Hasil/Modul4/Latihan2.PNG)
 
 ## Praktik
-![alt text](https://github.com/AndraQeysa/PHP_Fungsi_Kondisi_Latihan-Form/blob/master/Modul3/Latihan.php)
+![alt text](https://github.com/AndraQeysa/PHP_Fungsi_Kondisi_Latihan-Form/blob/master/Hasil/Modul4/Praktik.PNG)
