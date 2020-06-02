@@ -26,3 +26,6 @@
 
 ## Praktik
 ![alt text](https://github.com/AndraQeysa/PHP_Fungsi_Kondisi_Latihan-Form/blob/master/Hasil/Modul4/Praktik.PNG)
+
+## Latihan Sing In (Beranda)
+![alt text](https://github.com/AndraQeysa/PHP_Fungsi_Kondisi_Latihan-Form/blob/master/Hasil/Modul4/Latihan%20Sign%20In/Beranda.PNG)
